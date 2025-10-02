@@ -1,0 +1,20 @@
+plant-disease-detection/
+│── backend/
+│   ├── main.py
+│   ├── requirements.txt
+│   ├── plant_model.pth        # (placeholder, add your trained model)
+│   └── utils.py
+│
+│── frontend/
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── components/
+│   │       ├── UploadForm.js
+│   │       └── ResultCard.js
+│   ├── public/
+│   │   └── index.html
+│   └── package.json
+│
+│── README.md
+│── .gitignore
