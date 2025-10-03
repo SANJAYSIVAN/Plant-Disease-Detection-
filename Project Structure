@@ -1,0 +1,21 @@
+plant-disease-detection/
+│── backend/
+│   ├── main.py              # FastAPI backend API
+│   ├── utils.py             # helper functions
+│   ├── requirements.txt     # backend dependencies
+│   ├── train.py             # training script
+│   └── plant_model.pth      # trained model (not included in repo)
+│
+│── frontend/
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── components/
+│   │       ├── UploadForm.js
+│   │       └── ResultCard.js
+│   ├── public/
+│   │   └── index.html
+│   └── package.json
+│
+│── README.md
+│── .gitignore
